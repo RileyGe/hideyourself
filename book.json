@@ -1,0 +1,8 @@
+{
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "wang-luo-yin-shen-zhi-bei"
+        }
+    }  
+}
