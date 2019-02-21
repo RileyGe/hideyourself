@@ -19,6 +19,8 @@
 * [区块链--光明中成长](er-du-pin/blockchain-guangming-chengzhang.md)
 * [年底](er-du-pin/nian-di.md)
 * [柳暗花明](er-du-pin/liu-an-hua-ming.md)
+* [取快递的人](er-du-pin/qu-kuai-di-de-ren.md)
+* [本章后记](er-du-pin/ben-zhang-hou-ji.md)
 
 ## 三、暗网
 
