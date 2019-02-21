@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## 一、前言
 
-* [关于本书](yi-qian-yan/readme.md)
+* [关于本书](README.md)
 
 ## 二、毒品
 
