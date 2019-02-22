@@ -4,7 +4,7 @@
 
 ## 一、前言
 
-* [关于本书](yi-qian-yan/readme.md)
+* [关于本书](yi-qian-yan/yi-qian-yan.md)
 
 ## 二、毒品
 
@@ -29,6 +29,11 @@
 * [准备](san-an-wang/zhun-bei.md)
 * [梯子](san-an-wang/ti-zi.md)
 * [有趣的博客](san-an-wang/you-qu-de-bo-ke.md)
+* [接触](san-an-wang/jie-chu.md)
+* [邀约](san-an-wang/yao-yue.md)
+* [灰色书包网](san-an-wang/hui-se-shu-bao-wang.md)
+* [购物体验](san-an-wang/gou-wu-ti-yan.md)
+* [留下线索](san-an-wang/liu-xia-xian-suo.md)
 
 ## 后续
 
